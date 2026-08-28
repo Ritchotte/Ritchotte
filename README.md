@@ -1,8 +1,7 @@
 # Hi, I'm Ruth Anna 👋
 
 
-### 🌐 Community Marketplace PWA — *Client Work*
-Architecting a high-performance Progressive Web App marketplace with a reusable, scalable API backend — built to eventually go native. Emphasis on Canadian data residency and real community utility.
+
 
 **Tech:** Node.js · TypeScript · PostgreSQL · AWS · Stripe Connect
 
